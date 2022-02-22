@@ -1,46 +1,44 @@
-### My name is Paul Scallan Jr (also known as "Computer Paul").    I currently reside in San Marcos, California, but I am originally from Lafayette, Louisiana.   
+### My name is Paul Scallan Jr (a/k/a "Computer Paul").    I currently reside in San Marcos, California, but I am originally from Lafayette, Louisiana.  I am a FCC-licensed Technician [FRN# 0003907839] and hold numerous industry-standard certifications.  I am also an active partner with Microsoft and several other majors.  I additionally am a member of numerous industry think-tanks and advisory groups spanning a wide variety of subject-matter areas of focus and interests.
 
-### Most often, my professional work is performed remotely for clients, yet I do some professional work on-site/on-premises for clients (as determined per project, assignment, and/or contract).  
+### 📫 How to reach me: ... I can be contacted (*ordered by preference):
 
-### My IT-related skills and talents primarily vested within the following categories:
+- by email to:     PaulScallanJr@outlook.com
+- by SMS Text to:  8312388410
+- by Voice at:     +1 (831) 238-8410
 
-              Technical Support / Client Support / User Training  
-              Search Engine Optimization ("SEO") 
-              PHP / MySQL / MariaDB / PeconaDB / HTML5 / HTML / JS code development 
-              project management / operations management
+### Most often, my professional work is performed remotely for clients, yet I do some work on-site/on-premises (*as determined per project, assignment, and/or contract).  
+
+### My IT-related skills and talents are primarily vested within the following categories:
+
+- Technical Support / Client Support / User Training  
+- Search Engine Optimization ("SEO") 
+- PHP / MySQL / MariaDB / PeconaDB / HTML5 / HTML / JS / XML / JSON code development
+- Systems, Network, and Information Security Testing, Assessment, Remediation, and Management  
+- project management / operations management
 
 ### My skills and talents are reflected by: 
 
-              Information Technology ("IT") experience, which began overall in 1981, yet professionally since 1999 
-              additional professional experience in the legal, general business, and business consultancy fields  
+- Information Technology ("IT") experience, which began overall in 1981, yet professionally since 1999 
+- additional professional experience in the legal, general business, and business consultancy fields  
               
-### My overall work experience spans:
-              residential 
-              small businesses
-              enterprises
-              governmental entities
-
 ### My IT-specific experience ranges:
 
-              system hardware
-              system accessory hardware
-              common desktop application software
-              proprietary application software
-              networks of many types and architechture 
-              code development up to and including a medium-level of complexity
+- system hardware of many types and manufacture
+- system accessory hardware of many types and manufacture
+- common desktop, proprietary, and server-based application software
+- operational systems software ("OS") of all major producers and all such releases
+- networks of many types, topology, and architechture; as well as, associative hardware and hardware accessories
+- code development up to and including a medium-level of complexity (PHP, HTML/HTML5, CSS/CSS3, JS, SQL, XML, JSON)
               
-<!--
-**paulscallanjr/paulscallanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My overall work experience spans:
 
-Here are some ideas to get you started:
+- residential 
+- small businesses
+- enterprises
+- educational entities
+- non-profit organizations
+- governmental entities
+              
+### 🔭 I’m currently working on ... a project for the development of a legal marketing automation app that integrates with a CRM, an HRIS, and a CMS.  It is primarily written in PHP with MariaDB (*backend) and HTML5 + JS (*front-end).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <a href="https://app.daily.dev/paulscallanjr"><img src="https://api.daily.dev/devcards/56a1aac1d9e14334b5e6ffeb4a6ec23c.png?r=f2i" width="400" alt="Paul Scallan Jr's Dev Card"/></a>
