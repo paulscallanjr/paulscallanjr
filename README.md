@@ -1,4 +1,13 @@
-### Hi there 👋
+### My name is Paul Scallan Jr (known commonly as "Computer Paul" by locals who know me).  I am first and foremost a Tech Support Guru, but have other special talents in the following:  
+              Search Engine Optimization ("SEO"), 
+              PHP / MySQL / MariaDB / PeconaDB / HTML5 / HTML / JS code development, and 
+              project management / operations management.  
+
+### All of my skills and talents are based primarily on: 
+              (1) Information Technology ("IT") experience, which began overall in 1981, yet professionally since 1999  and 
+              (2) additional professional experience in the legal, general business, and business consultancy fields.  
+
+### My overall work experience spans from residential to small businesses to enterprises and even to governmental entities.  My IT-specific experience ranges from system hardware to application software to networks of many types and architechtures and even to code development at a medium-level of complexity.
 
 <!--
 **paulscallanjr/paulscallanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
