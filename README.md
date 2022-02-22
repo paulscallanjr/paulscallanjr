@@ -1,14 +1,32 @@
-### My name is Paul Scallan Jr (known commonly as "Computer Paul" by locals who know me).  I am first and foremost a Tech Support Guru, but have other special talents in the following:  
-              Search Engine Optimization ("SEO"), 
-              PHP / MySQL / MariaDB / PeconaDB / HTML5 / HTML / JS code development, and 
-              project management / operations management.  
+### My name is Paul Scallan Jr (also known as "Computer Paul").  I currently reside in San Marcos, California, yet originally from Lafayette, Louisiana. Most often, my professional work is performed remotely for clients, yet I do some professional work on-site/on-premises for clients (as determined per project, assignment, and/or contract).  
 
-### All of my skills and talents are based primarily on: 
-              (1) Information Technology ("IT") experience, which began overall in 1981, yet professionally since 1999  and 
+### My IT-related skills and talents primarily are in the following categories:
+
+              Technical Support / Client Support  
+              Search Engine Optimization ("SEO") 
+              PHP / MySQL / MariaDB / PeconaDB / HTML5 / HTML / JS code development 
+              project management / operations management
+
+### My skills and talents are reflected primarily by: 
+
+              (1) Information Technology ("IT") experience, which began overall in 1981, yet professionally since 1999 
               (2) additional professional experience in the legal, general business, and business consultancy fields.  
 
-### My overall work experience spans from residential to small businesses to enterprises and even to governmental entities.  My IT-specific experience ranges from system hardware to application software to networks of many types and architechtures and even to code development at a medium-level of complexity.
+### My overall work experience spans:
+              residential 
+              small businesses
+              enterprises
+              governmental entities
 
+### My IT-specific experience ranges:
+
+              system hardware
+              system accessory hardware
+              common desktop application software
+              proprietary application software
+              networks of many types and architechture 
+              code development up to and including a medium-level of complexity.
+              
 <!--
 **paulscallanjr/paulscallanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
