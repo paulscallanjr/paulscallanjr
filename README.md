@@ -1,17 +1,19 @@
-### My name is Paul Scallan Jr (also known as "Computer Paul").  I currently reside in San Marcos, California, yet originally from Lafayette, Louisiana. Most often, my professional work is performed remotely for clients, yet I do some professional work on-site/on-premises for clients (as determined per project, assignment, and/or contract).  
+### My name is Paul Scallan Jr (also known as "Computer Paul").    I currently reside in San Marcos, California, but I am originally from Lafayette, Louisiana.   
 
-### My IT-related skills and talents primarily are in the following categories:
+### Most often, my professional work is performed remotely for clients, yet I do some professional work on-site/on-premises for clients (as determined per project, assignment, and/or contract).  
 
-              Technical Support / Client Support  
+### My IT-related skills and talents primarily vested within the following categories:
+
+              Technical Support / Client Support / User Training  
               Search Engine Optimization ("SEO") 
               PHP / MySQL / MariaDB / PeconaDB / HTML5 / HTML / JS code development 
               project management / operations management
 
-### My skills and talents are reflected primarily by: 
+### My skills and talents are reflected by: 
 
-              (1) Information Technology ("IT") experience, which began overall in 1981, yet professionally since 1999 
-              (2) additional professional experience in the legal, general business, and business consultancy fields.  
-
+              Information Technology ("IT") experience, which began overall in 1981, yet professionally since 1999 
+              additional professional experience in the legal, general business, and business consultancy fields  
+              
 ### My overall work experience spans:
               residential 
               small businesses
@@ -25,7 +27,7 @@
               common desktop application software
               proprietary application software
               networks of many types and architechture 
-              code development up to and including a medium-level of complexity.
+              code development up to and including a medium-level of complexity
               
 <!--
 **paulscallanjr/paulscallanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
