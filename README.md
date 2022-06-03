@@ -3,8 +3,8 @@
 ### 📫 How to reach me: ... I can be contacted (*ordered by preference):
 
 - by email to:     PaulScallanJr@outlook.com
-- by SMS Text to:  8312388410
-- by Voice at:     +1 (831) 238-8410
+- by SMS Text to:  3373661015
+- by Voice at:     +1 (760) 425-9521
 
 ### Most often, my professional work is performed remotely for clients, yet I do some work on-site/on-premises (*as determined per project, assignment, and/or contract).  
 
@@ -39,6 +39,6 @@
 - non-profit organizations
 - governmental entities
               
-### 🔭 I’m currently working on ... a project for the development of a legal marketing automation app that integrates with a CRM, an HRIS, and a CMS.  It is primarily written in PHP with MariaDB (*backend) and HTML5 + JS (*front-end).
+### 🔭 I’m currently working on ... a project for the development of a legal marketing automation app that integrates with a CRM, an HRIS, and a CMS.  It is primarily written in PHP (implemented using a proprietary skinny applications framework) + HTML5 + JavaScript; all of which depend on and utilize MariaDB as the backend database technology deployed in a clustered server configuration for survivability as a priority.
 
 <a href="https://app.daily.dev/paulscallanjr"><img src="https://api.daily.dev/devcards/56a1aac1d9e14334b5e6ffeb4a6ec23c.png?r=f2i" width="400" alt="Paul Scallan Jr's Dev Card"/></a>
