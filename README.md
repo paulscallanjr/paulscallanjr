@@ -4,7 +4,7 @@
 
 - by email to:     PaulScallanJr@outlook.com
 - by SMS Text to:  3373661015
-- by Voice at:     +1 (213) 512-8674
+- by Voice at:     +1 (213) 551-2257
 
 ### My resume can be found here: <a href="https://1drv.ms/b/s!AlOk0KSXZ73OxLUYtNK1EKd7rkzOBA?e=lbdA8S">LINK
 
