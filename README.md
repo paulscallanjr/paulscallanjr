@@ -1,10 +1,10 @@
-### My name is Paul Scallan Jr (a/k/a "Computer Paul").    I currently reside in San Diego, California, yet I am originally from Lafayette, Louisiana.  I am a FCC-licensed Technician [FRN# 0003907839] and hold numerous industry-standard certifications.  I am also a registered partner with Microsoft and several other majors.  I additionally am a member of numerous industry think-tanks and advisory groups spanning a wide variety of subject-matter areas of focus and interest.
+### My name is Paul Scallan Jr (a/k/a "Computer Paul").    I currently reside in San Diego, California, yet I am originally from Lafayette, Louisiana.  I am a FCC-licensed Tech [FRN# 0003907839] and hold numerous industry-standard certifications.  I am also a registered partner & developer with Microsoft and several other majors.  I additionally am an active member of numerous industry think-tanks and advisory groups spanning a wide variety of subject-matter areas of focus and interest.
 
 ### 📫 How to reach me: ... I can be contacted (*ordered by preference):
 
-- by email to:     PaulScallanJr@outlook.com
+- by email to:     PaulScallanJr@outlook.com  or ForHire@Currently.com
 - by SMS Text to:  3373661015
-- by Voice at:     +1 (213) 551-2257
+- by Voice at:     +1 (619) 840-0370
 
 ### My resume can be found here: <a href="https://1drv.ms/b/s!AlOk0KSXZ73OxLUYtNK1EKd7rkzOBA?e=lbdA8S">LINK
 
