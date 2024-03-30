@@ -4,19 +4,18 @@
 
 - by email to:     ForHire@Currently.com  and/or PaulScallanJr@outlook.com
 - by SMS Text to:  +1 (619) 759-0150
-- by Voice at:     +1 (619) 840-0370
+- by Voice at:     +1 (619) 759-0150
 
 ### My resume (* note: needa a refresh - Comkng Soon!) can be found here: <a href="https://1drv.ms/b/s!AlOk0KSXZ73OxLUYtNK1EKd7rkzOBA?e=lbdA8S" title="Resume of Paul Scallan Jr">Resume of Paul Scallan Jr</a>
-
 
 ### Most often, my professional work is performed remotely for clients, yet I do some work on-site/on-premises (*as determined per project, assignment, and/or contract).  
 
 ### My IT-related skills and talents are primarily vested within the following categories:
 
-- Technical Support / Client Support / User Training  
-- Search Engine Optimization ("SEO") 
-- PHP / MySQL / MariaDB / PeconaDB / HTML5 / HTML / JS / XML / JSON code development
-- Systems, Network, and Information Security Testing, Assessment, Remediation, and Management  
+-> Technical Support / Client Support / Customer Service / User Training
+-> Search Engine Optimization ("SEO") Coding
+-> PHP / MySQL / MariaDB / PeconaDB / HTML5 / HTML / JS / XML / JSON code development
+-> Computing Systems & Networks and Information Security Testing, Assessment, Remediation, and Management  
 - project management / operations management
 
 ### My skills and talents are reflected by: 
