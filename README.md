@@ -1,9 +1,9 @@
-### My name is Paul Scallan Jr (a/k/a "Computer Paul" or, en Espanol, a/k/a "PC Pablo").    I currently reside in San Diego, California, yet I am originally from "The Bayou State" Louisiana.  I am a FCC-licensed Technician [FRN# 0003907839] and hold several industry-standard certifications (* of note:  MCSA and SCP) and have completed several Professional Education Certificate programs (* of note: SEO Coding, HIPPA Compliance, FCRA Compliance, DRRP comoliance, and PCI/DSS ver. 3 Fundamentals). I am also a registered Partner, Developer, and Insider with Microsoft and a regiatered developer and a Local Guide (Level 6) with Google.  I additionally am an active member of numerous industry think-tanks and advisory groups spanning a wide variety of subject-matter areas of focus and interest; aw well as, a active imfustty-segment focused forums participant.
+### My name is Paul Scallan Jr and I currently reside in San Diego, California, yet I am originally from "The Bayou State" Louisiana.  I am a FCC-licensed Technician and hold several industry-standard certifications; as well as, completed several industry-specific Professional Education Certificate programs. I am a registered Partner, Developer, and avid Insider with Microsoft and a registered developer and a Local Guide (Level 6) with Google. Additionally, I am an active member of numerous industry think-tanks and advisory groups spanning a wide variety of subject-matter areas of focus and interest; as well as, an active industty-focused forums participant.
 
 ### 📫 How to reach me: ... I can be contacted (*ordered by preference):
 
 - by email to:     ForHire@Currently.com  and/or PaulScallanJr@outlook.com
-- by SMS Text to:  3373661015 and/or 6198400370
+- by SMS Text to:  +1 (619) 759-0150
 - by Voice at:     +1 (619) 840-0370
 
 ### My resume (* note: needa a refresh - Comkng Soon!) can be found here: <a href="https://1drv.ms/b/s!AlOk0KSXZ73OxLUYtNK1EKd7rkzOBA?e=lbdA8S" title="Resume of Paul Scallan Jr">Resume of Paul Scallan Jr</a>
